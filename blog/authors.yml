@@ -1,0 +1,13 @@
+ erfahren:
+  name: erfahren
+  title: ..:—_—_—_—:..
+  url: https://cynosure.news/
+  image_url: https://atadcrazy.net/me.png
+ # page:
+    # customize the url of the author page at /blog/authors/<permalink>
+   # permalink: '/all-of-my-articles'
+  socials:
+    x: _erfahren
+    linkedin: scott-hughes-983361229
+    github: erfahren
+    newsletter: https://cynosure.news/

@@ -1,0 +1,27 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+# / was on /dev/sda8 during installation
+UUID=f89bdc83-0e81-4a4b-96a4-03c2b33c8f1c	/         	ext4      	rw,relatime,data=ordered	0 1
+# /dev/sda7
+UUID=abc5a013-c49e-49ac-8a26-91891196fe50	none      	swap      	defaults  	0 0
+# Win7 PARTITIONS
+# /dev/sda1
+UUID=2AC27AD5C27AA4AB /mnt/sda1     ntfs    defaults,nls=utf8,umask=227     0       1
+# /dev/sda2
+# UUID=7262BFB062BF7785 /mnt/win7     ntfs    defaults,nls=utf8,umask=007,gid=46 0       1
+UUID=7262BFB062BF7785 /mnt/win7     ntfs    defaults,nls=utf8,umask=227     0       1
+# /dev/sda3 WIN7 RECOVERY
+UUID=A4EA7D4EEA7D1E2C /mnt/sda3     ntfs    defaults,nls=utf8,umask=227     0       1
+#
+# DATA PARTITION
+# /dev/sda5
+UUID=3C4BB450261FC881  /mnt/data_partition     ntfs-3g    uid=1000,gid=100,umask=0022    0       0
+#
+# Arch6  /dev/sda6
+UUID=f5e0d5b1-f810-4c51-80e2-c936f53f1444 /mnt/arch6     ext4     defaults     0       0
+
