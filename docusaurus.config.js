@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'noetic.news',
+  title: 'metafiction.news',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -20,7 +20,7 @@ const config = {
 //  },
 
   // Set the production url of your site here
-  url: 'https://noetic.news/',
+  url: 'https://metafiction.news/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'erfahren', // Usually your GitHub org/user name.
-  projectName: 'noetic.news', // Usually your repo name.
+  projectName: 'metafiction.news', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
          // editUrl:
-          //  'https://github.com/erfahren/noetic.news/',
+          //  'https://github.com/erfahren/metafiction.news/',
         },
         blog: {
           showReadingTime: true,
@@ -61,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
          // editUrl:
-          //  'https://github.com/erfahren/noetic.news/',
+          //  'https://github.com/erfahren/metafiction.news/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'noetic.news',
+        title: 'metafiction.news',
         logo: {
-          alt: 'noetic.news Logo',
+          alt: 'metafiction.news Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} noetic.news. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} metafiction.news. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
