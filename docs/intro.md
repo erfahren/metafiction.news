@@ -1,5 +1,5 @@
 ---
-title: ..: metafiction.news :..
+title: metafiction.news
 ---
 
 ## Intro
@@ -32,3 +32,17 @@ Sincerely Yours,
 National Cemetery Scheduling Office Director
 
 ***
+
+![My GED dated — 1983/05/16](@site/static/img/ged-m08621-822x404.jpg)
+
+***
+
+> A .gif I made to demostrate a point about controversial subject, that shouldn't be so controversial...
+
+... but it's regarding the _Common Core Education Program_ in the U.S. where there's a "law of triviality" phenomenon & Dunning-Kruger effect with laypeople about some of the exercises that the students will do. One was about _spatial reasoning_ where there were simple illustrations of objects that are somewhat misshaped (the best I can explain it) and the students would need to pick a close match. At any rate, I know not to assume that educators are stupid and there may be some reason for the strange assignment. It also occurred to me that there may have been similar exercises in education throughout the past decades, but it was just something most people would forget. 
+
+> I also realized that the math exercises that seem out of the ordinary are not "_a new way to do some simple calculations_", like everyone insists it's all about, but are meant to show the students how math works in its way where there are different ways to figure the same problem. A person can _check their work_ and is what some people find so interesting about the field. (Refresh web browser to restart.)   
+
+![A .gif to demostrate a Common Core Education Program math exercise](@site/static/img/cc-math.gif)
+
+---
