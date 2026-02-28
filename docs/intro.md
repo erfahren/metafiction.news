@@ -1,5 +1,5 @@
 ---
-title: Intro metafiction.news
+title: ..: metafiction.news :..
 ---
 
 ## Intro
