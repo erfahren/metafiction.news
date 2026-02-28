@@ -18,7 +18,7 @@ function HomepageHeader() {
          <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Intro ⏱️ 🇺🇸  🐧
+            ⏱️ Intro  🇺🇸  🐧
           </Link>
         </div>
       </div>
@@ -38,7 +38,7 @@ export default function Home() {
 <h2>Welcome to my website.</h2>
 <p>⏱️&nbsp;🇺🇸&nbsp;🐧&nbsp;—&nbsp;♪&nbsp;♩&nbsp;♬&nbsp;♫&nbsp;€&nbsp;®&nbsp;|&nbsp;©&nbsp;1⁄4&nbsp;1⁄2&nbsp;3⁄4&nbsp;¢&nbsp;°&nbsp;£</p> 
 <p>(Last edited/updated 2026.02.25)</p>
-<p>This website is a work in progress. There are some contrast issues but it's a testing template of sorts</p> 
+<p>This website is a work in progress. There are some contrast issues but it's a testing template of sorts. I have a couple brief guides about GNU/Linux features under Blog in the menu.</p> 
 <p>
 <a href="#specialchar">HTML Special Characters</a> (lower in page)
 </p>

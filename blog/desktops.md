@@ -6,10 +6,10 @@ title: basic overview to GNU/Linux gui menus & *.desktop files
 
 So you install a program with a GUI but there is no menu item or you'd like a custom entry for a program in the menu...  — This is applicable for GNU/Linux desktop environments that utilize Desktop entries (.desktop) with [freedesktop.org interoperability specifications](https://www.freedesktop.org/wiki/Specifications/ "freedesktop.org interoperability specifications")
 
+{/* truncate */}
 
 > Desktop entries (.desktop) are used to create menu entries for programs, associating icons for a program's menu entry item, & include sub-menu (_context menu_) entry capabilities (i.e., a web browser's option to "Open in new private window").
 
-{/* truncate */}
 
 Typically the files are in:
 **/usr/share/applications** for all users
@@ -24,8 +24,11 @@ Typically the files are in:
 > If the icons that are referenced in the files are in the respective directories of **/usr/share/icons** (or **/usr/share/pixmaps** ?) or **/home/&lt;_username_&gt;/.local/share/icons** then only the icon name is necessary (as opposed to the entire direct path to the icon). More info on icons here: [Is there a home directory location for overriding icons? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/404955/is-there-a-home-directory-location-for-overriding-icons "Is there a home directory location for overriding icons? - Unix & Linux Stack Exchange")
 
 
-Copy an existing .desktop to the user home for a template & open to edit in text editor:<textarea class="code" contenteditable="true" spellcheck="false" aria-label='Code Sample'>cp /usr/share/applications/firefox.desktop $HOME/.local/share/applications</textarea>  —  
+Copy an existing .desktop to the user home for a template & open to edit in text editor:
 
+```
+cp /usr/share/applications/firefox.desktop $HOME/.local/share/applications
+```
 
 (another note: I create the symlinks of ~/.icons & ~/.fonts & ~/.themes to the corresponding directories in ~/.local/share/ ) Anyway...
 

@@ -19,7 +19,7 @@ In my Ubuntu install on "_/dev/sda6_" I made the directories I needed for mount 
 sudo mkdir /mnt/sda1 /mnt/win7 /mnt/sda3 /mnt/data_partition /mnt/arch8
 ```
 
-**...and then ran "sudo blkid" to get the UUID's and added them to my [/etc/fstab](./etc-fstab_example](./etc-fstab_example "/etc/fstab")**
+**...and then ran "sudo blkid" to get the UUID's and added them to my [/etc/fstab](@site/static/etc-fstab_example.txt "/etc/fstab")**
 
 **When the /etc/fstab is ready run "sudo mount -a" in the terminal to check for errors.**
 

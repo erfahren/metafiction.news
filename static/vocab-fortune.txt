@@ -1,0 +1,678 @@
+abrogation
+     n : the act of abrogating; an official or legal cancellation
+         [syn: {repeal}, {annulment}]
+%
+accentuate
+     v 1: to stress, single out as important; "Dr. Jones emphasizes
+          exercise in addition to a change in diet" [syn: {stress},
+           {emphasize}, {emphasise}, {punctuate}, {accent}]
+     2: put stress on; utter with an accent; "In Farsi, you accent
+        the last syllable of each word" [syn: {stress}, {accent}]
+%
+affable
+     adj : diffusing warmth and friendliness; "an affable smile"; "an
+           amiable gathering"; "cordial relations"; "a cordial
+           greeting"; "a genial host" [syn: {amiable}, {cordial},
+           {genial}]
+%
+ague
+     n 1: a fit of shivering
+     2: successive stages of chills and fever that is a symptom of
+        malaria [syn: {chills and fever}]
+     3: a mark (') placed above a vowel to indicate pronunciation
+        [syn: {acute accent}, {acute}]
+%
+aphorism
+     n : a short pithy instructive saying [syn: {apothegm}, {apophthegm}]
+%
+aspirant
+     adj 1: seeking advancement or recognition [syn: {aspiring(p)}, {wishful},
+             {would-be(a)}]
+     2: desiring or striving for recognition or advancement [syn: {aspiring(a)}]
+     n : an ambitious and aspiring young person; "a lofty aspirant";
+         "two executive hopefuls joined the firm"; "the audience
+         was full of Madonna wannabes" [syn: {aspirer}, {hopeful},
+          {wannabe}, {wannabee}]
+%
+assuage
+     v 1: cause to be more favorably inclined; gain the good will of;
+          "She managed to mollify the angry customer" [syn: {pacify},
+           {lenify}, {conciliate}, {appease}, {mollify}, {placate},
+           {gentle}, {gruntle}]
+     2: satisfy (thirst); "The cold water quenched his thirst" [syn:
+         {quench}, {slake}, {allay}]
+     3: provide physical relief, as from pain; "This pill will
+        relieve your headaches" [syn: {relieve}, {alleviate}, {palliate}]
+%
+astute
+     adj : marked by practical hardheaded intelligence; "a smart
+           businessman"; "an astute tenant always reads the small
+           print in a lease"; "he was too shrewd to go along with
+           them on a road that could lead only to their overthrow"
+           [syn: {sharp}, {shrewd}]
+%
+austerity
+     n : the trait of great self-denial (especially refraining from
+         worldly pleasures) [syn: {asceticism}, {nonindulgence}]
+%
+avuncular
+     adj 1: being or relating to an uncle
+     2: like an uncle in kindness or indulgence; "showed avuncular
+        concern"
+%
+coalesce
+     v 1: mix together different elements; "The colors blend well"
+          [syn: {blend}, {flux}, {mix}, {conflate}, {commingle}, {immix},
+           {fuse}, {meld}, {combine}, {merge}]
+     2: fuse or cause to grow together
+%
+coalesced
+     adj : joined together into a whole; "United Industries"; "the
+           amalgamated colleges constituted a university"; "a
+           consolidated school" [syn: {amalgamate}, {amalgamated},
+            {consolidated}, {fused}]
+%
+cogent
+     adj 1: having the power to influence or convince; "a cogent
+            analysis of the problem"; "potent arguments" [syn: {potent},
+             {powerful}]
+     2: powerfully persuasive; "a cogent argument"; "a telling
+        presentation"; "a weighty argument" [syn: {telling}, {weighty}]
+%
+collocation
+     n 1: a grouping of words in a sentence
+     2: the act of positioning close together (or side by side); "it
+        is the result of the juxtaposition of contrasting colors"
+        [syn: {juxtaposition}, {apposition}]
+%
+concomitant
+     adj : following as a consequence; "an excessive growth of
+           bureaucracy, with related problems"; "snags incidental
+           to the changeover in management" [syn: {accompanying},
+           {attendant}, {incidental}, {incidental to(p)}]
+     n : an event or situation that happens at the same time as or in
+         connection with another [syn: {accompaniment}, {co-occurrence}]
+%
+congenial
+     adj 1: suitable to your needs or similar to your nature; "a
+            congenial atmosphere to work in"; "two congenial
+            spirits united...by mutual confidence and reciprocal
+            virtues"- T.L.Peacock [syn: {agreeable}] [ant: {uncongenial}]
+     2: used of plants; capable of cross-fertilization or of being
+        grafted
+%
+contrapuntal
+     adj 1: relating to or characteristic of or according to the rules
+            of counterpoint; "contrapuntal base"
+     2: having two or more independent but harmonically related
+        melodic parts sounding together [syn: {polyphonic}] [ant:
+        {monophonic}]
+%
+cordial
+     adj 1: diffusing warmth and friendliness; "an affable smile"; "an
+            amiable gathering"; "cordial relations"; "a cordial
+            greeting"; "a genial host" [syn: {affable}, {amiable},
+             {genial}]
+     2: showing warm and heartfelt friendliness; "gave us a cordial
+        reception"; "a hearty welcome" [syn: {hearty}]
+     3: sincerely or intensely felt; "a cordial regard for his
+        visitor's comfort"; "a cordial abhorrence of waste"; "a
+        fervent hope" [syn: {fervent}]
+cordial
+     n : strong highly flavored sweet liquor usually drunk after a
+         meal [syn: {liqueur}]
+%
+culminate
+     v 1: end, especially to reach a final or climactic stage; "The
+          meeting culminated in a tearful embrace" [syn: {climax}]
+     2: bring to a head or to the highest point; "Seurat culminated
+        pointillism"
+     3: reach the highest or most decisive point
+     4: of a celestial body: reach its highest altitude or the
+        meridian
+     5: rise to, or form, a summit; "The helmet culminated in a
+        crest"
+%
+deferential
+     adj : showing deference [syn: {deferent}, {regardful}]
+%
+deprecate
+     v 1: express strong disapproval of; deplore
+     2: belittle; "The teacher should not deprecate his student's
+        efforts" [syn: {depreciate}]
+%
+despond
+     v : lose confidence or hope; become dejected; "The supporters of
+         the Presidential candidate desponded when they learned
+         the early results of the election"
+%
+detritus
+     n 1: the remains of something that has been destroyed or broken
+          up [syn: {debris}, {dust}, {junk}, {rubble}]
+     2: loose material (stone fragments and silt etc) that is worn
+        away from rocks
+%
+dialectic
+     adj : of or relating to or employing dialectic; "the dialectical
+           method" [syn: {dialectical}]
+dialectic
+     n 1: any formal system of reasoning that arrives at the truth by
+          the exchange of logical arguments
+     2: a contradiction of ideas that serves as the determining
+        factor in their interaction; "this situation created the
+        inner dialectic of American history"
+%
+dialectical
+     adj 1: of or relating to logical disputation; "a dialectical weapon
+            against his opponent"
+     2: of or relating to or employing dialectic; "the dialectical
+        method" [syn: {dialectic}]
+%
+dirge
+     n : a song or hymn of mourning composed or performed as a
+         memorial to a dead person [syn: {coronach}, {lament}, {requiem},
+          {threnody}]
+%
+disavowal
+     n : denial of any connection with or knowledge of [syn: {disclaimer}]
+%
+disparate
+     adj 1: fundamentally different or distinct in quality or kind;
+            "such disparate attractions as grand opera and game
+            fishing"; "disparate ideas"
+     2: including markedly dissimilar elements; "a disparate
+        aggregate of creeds and songs and prayers"
+%
+ebullient
+     adj : joyously unrestrained [syn: {exuberant}, {high-spirited}]
+%
+efficacy
+     n : capacity or power to produce a desired effect; "concern
+         about the safety and efficacy of the vaccine" [syn: {efficaciousness}]
+         [ant: {inefficacy}]
+%
+elegiac
+     adj 1: resembling or characteristic of or appropriate to an elegy;
+            "an elegiac poem on a friend's death"
+     2: expressing sorrow often for something past; "an elegiac
+        lament for youthful ideals"
+%
+eloquence
+     n : powerful and effective language [syn: {fluency}]
+%
+enmity
+     n 1: a state of deep-seated ill-will [syn: {hostility}, {antagonism}]
+     2: the feeling of a hostile person; "he could no longer contain
+        his hostility" [syn: {hostility}, {ill will}]
+%
+entropy
+     n 1: (communication theory) a numerical measure of the
+          uncertainty of an outcome; "the signal contained
+          thousands of bits of information" [syn: {information}, {selective
+          information}]
+     2: (thermodynamics) a thermodynamic quantity representing the
+        amount of energy in a system that is no longer available
+        for doing mechanical work; "entropy increases as matter
+        and energy in the universe degrade to an ultimate state of
+        inert uniformity" [syn: {randomness}, {S}]
+%
+erudite
+     adj : having or showing profound knowledge; "a learned jurist";
+           "an erudite professor" [syn: {learned}]
+%
+eschew
+     v : avoid and stay away from deliberately; stay clear of [syn: {shun}]
+%
+expectorate
+     v 1: clear out the chest and lungs; "This drug expectorates
+          quickly" [syn: {clear out}, {drive out}]
+     2: discharge (phlegm or sputum) from the lungs and out of the
+        mouth [syn: {cough up}, {cough out}, {spit up}, {spit out}]
+%
+expedient
+     adj 1: serving to promote your interest; "was merciful only when
+            mercy was expedient" [ant: {inexpedient}]
+     2: appropriate to a purpose; practical; "in the circumstances
+        it was expedient to express loyalty"
+expedient
+     n : a means to an end; not necessarily a principled or ethical
+         one
+%
+expostulate
+     v : reason with (somebody) for the purpose of dissuasion
+%
+exquisite
+     adj 1: intense or sharp; "suffered exquisite pain"; "felt exquisite
+            pleasure" [syn: {keen}]
+     2: lavishly elegant and refined [syn: {recherche}]
+     3: of delicate composition and artistry; "a dainty teacup"; "an
+        exquisite cameo" [syn: {dainty}]
+     4: of extreme beauty; "her exquisite face"
+%
+exult
+     v 1: feel extreme happiness or elation [syn: {walk on air}, {be
+          on cloud nine}, {jump for joy}]
+     2: to express great joy; "Who cannot exult in Spring?" [syn: {rejoice},
+         {triumph}, {jubilate}]
+%
+falsifiable
+     adj : capable of being tested (verified or falsified) by
+           experiment or observation [syn: {confirmable}, {verifiable}]
+%
+foist
+     v 1: to force onto another; "He foisted his work on me"
+     2: insert surreptitiously or without warrant
+%
+fungible
+     adj : of goods or commodities; freely exchangeable for or
+           replaceable by another of like nature or kind in the
+           satisfaction of an obligation
+     n : a commodity that is freely interchangeable with another in
+         satisfying an obligation
+%
+gesticulate
+     v : show, express or direct through movement; "He gestured his
+         desire to leave" [syn: {gesture}, {motion}]
+%
+gravitas
+     n : formality in bearing and appearance; "he behaved with great
+         dignity" [syn: {dignity}, {lordliness}]
+%
+grist
+     n : grain intended to be or that has been ground
+%
+imbroglio
+     n 1: an intricate and confusing interpersonal or political
+          situation [syn: {embroilment}]
+     2: a very embarrassing misunderstanding
+%
+immanent
+     adj 1: of a mental act performed entirely within the mind; "a
+            cognition is an immanent act of mind" [syn: {subjective}]
+            [ant: {transeunt}]
+     2: of qualities that are spread throughout something; "ambition
+        is immanent in human nature"; "we think of God as immanent
+        in nature"
+%
+incarnate
+     adj 1: possessing or existing in bodily form; "what seemed corporal
+            melted as breath into the wind"- Shakespeare; "an
+            incarnate spirit"; "`corporate' is an archaic term"
+            [syn: {bodied}, {corporal}, {corporate}, {embodied}]
+     2: invested with a bodily form especially of a human body; "a
+        monarch...regarded as a god incarnate"
+     v 1: make concrete and real [ant: {disincarnate}]
+     2: represent in bodily form; "He embodies all that is evil
+        wrong with the system"; "The painting substantiates the
+        feelings of the artist" [syn: {body forth}, {embody}, {substantiate}]
+%
+inchoate
+     adj : only partly in existence; imperfectly formed; "incipient
+           civil disorder"; "an incipient tumor"; "a vague
+           inchoate idea" [syn: {incipient}]
+%
+incipient
+     adj : only partly in existence; imperfectly formed; "incipient
+           civil disorder"; "an incipient tumor"; "a vague
+           inchoate idea" [syn: {inchoate}]
+%
+incredulity
+     n : doubt about the truth of something [syn: {disbelief}, {skepticism},
+          {mental rejection}]
+%
+inexorable
+     adj 1: not to be placated or appeased or moved by entreaty; "grim
+            determination"; "grim necessity"; "Russia's final
+            hour, it seemed, approached with inexorable
+            certainty"; "relentless persecution"; "the stern
+            demands of parenthood" [syn: {grim}, {relentless}, {stern},
+             {unappeasable}, {unforgiving}, {unrelenting}]
+     2: not capable of being swayed or diverted from a course;
+        unsusceptible to persuasion; "he is adamant in his refusal
+        to change his mind"; "Cynthia was inexorable; she would
+        have none of him"- W.Churchill; "an intransigent
+        conservative opposed to every liberal tendancy" [syn: {adamant},
+         {adamantine}, {intransigent}]
+%
+inscrutable
+     adj : of an obscure nature; "the new insurance policy is written
+           without cryptic or mysterious terms"; "a deep dark
+           secret"; "the inscrutible workings of Providence"; "in
+           its mysterious past it encompasses all the dim origins
+           of life"- Rachel Carson; "rituals totally mystifying to
+           visitors from other lands" [syn: {cryptic}, {cryptical},
+            {deep}, {mysterious}, {mystifying}]
+%
+interminable
+     adj : tiresomely long; seemingly without end; "endless debates";
+           "an endless conversation"; "the wait seemed eternal";
+           "eternal quarreling"; "an interminable sermon" [syn: {endless},
+            {eternal}]
+%
+macrocosm
+     n : everything that exists anywhere; "they study the evolution
+         of the universe"; "the biggest tree in existence" [syn: {universe},
+          {existence}, {creation}, {world}, {cosmos}]
+%
+magnate
+     n : a very wealthy or powerful businessman; "an oil baron" [syn:
+          {baron}, {big businessman}, {business leader}, {king}, {mogul},
+          {power}, {top executive}, {tycoon}]
+%
+mesmeric
+     adj : attracting and holding interest as if by a spell; "read the
+           bedtime story in a hypnotic voice"; "she had a warm
+           mesmeric charm"; "the sheer force of his presence was
+           mesmerizing"; "a spellbinding description of life in
+           ancient Rome" [syn: {hypnotic}, {mesmerizing}, {spellbinding}]
+%
+microcosm
+     n : a miniature model of something
+%
+moribund
+     adj 1: not growing or changing; without force or vitality [syn: {stagnant}]
+     2: on the point of death; breathing your last; "a moribund
+        patient"; "the expiring man was carried home by his two
+        friends"
+%
+motif
+     n 1: a design that consists of recurring shapes or colors
+     2: a theme that is elaborated on in a piece of music [syn: {motive}]
+     3: a unifying idea that is a recurrent element in a literary or
+        artistic work; "it was the usual `boy gets girl' theme"
+        [syn: {theme}]
+%
+negate
+     v 1: be in contradiction with [syn: {contradict}, {belie}]
+     2: deny the truth of [syn: {contradict}, {contravene}]
+     3: prove negative; show to be false [syn: {contradict}] [ant: {confirm}]
+     4: make ineffective by counterbalancing the effect of; "Her
+        optimism neutralizes his gloom"; "This action will negate
+        the effect of my efforts" [syn: {neutralize}, {neutralise},
+         {nullify}]
+%
+nonpareil
+     adj : eminent beyond or above comparison; "matchless beauty"; "the
+           team's nonpareil center fielder"; "she's one girl in a
+           million"; "the one and only Muhammad Ali"; "a peerless
+           scholar"; "infamy unmatched in the Western world";
+           "wrote with unmatchable clarity"; "unrivaled mastery of
+           her art" [syn: {matchless}, {one(a)}, {one and only(a)},
+            {peerless}, {unmatched}, {unmatchable}, {unrivaled}, {unrivalled}]
+     n 1: model of excellence or perfection of a kind; one having no
+          equal [syn: {ideal}, {paragon}, {saint}, {apotheosis}, {nonesuch},
+           {nonsuch}]
+     2: colored beads of sugar used as a topping on e.g. candies and
+        cookies
+     3: a flat disk of chocolate covered with beads of colored sugar
+%
+nostrum
+     n 1: hypothetical remedy for all ills or diseases; once sought by
+          the alchemists [syn: {panacea}, {cure-all}]
+     2: patent medicine whose efficacy is questionable
+%
+nubile
+     adj : of girls or women [syn: {marriageable}]
+%
+opprobrium
+     n 1: state of disgrace resulting from public abuse [syn: {obloquy}]
+     2: a state of extreme dishonor; "a date which will live in
+        infamy"- F.D.Roosevelt; "the name was a by-word of scorn
+        and opprobrium throughout the city" [syn: {infamy}] [ant:
+        {fame}]
+%
+ostensibly
+     adv : from appearances alone; "irrigation often produces bumper
+           crops from apparently desert land"; "the child is
+           seemingly healthy but the doctor is concerned"; "had
+           been ostensibly frank as to his purpose while really
+           concealing it"-Thomas Hardy; "on the face of it the
+           problem seems minor" [syn: {apparently}, {seemingly}, {on
+           the face of it}]
+%
+palliative
+     adj : moderating pain or sorrow by making it easier to bear [syn:
+           {alleviative}, {alleviatory}, {lenitive}, {mitigative},
+            {mitigatory}]
+     n : remedy that alleviates pain without curing [syn: {alleviant},
+          {alleviator}]
+%
+parenthetic
+     adj 1: as if using parentheses; "a parenthetical style" [syn: {parenthetical}]
+     2: qualifying or explaining; placed or as if placed in
+        parentheses; "parenthetical remarks" [syn: {parenthetical}]
+%
+parlance
+     n : a manner of speaking that is natural to native speakers of a
+         language [syn: {idiom}]
+%
+pensive
+     adj 1: persistently or morbidly thoughtful [syn: {brooding}, {broody},
+             {contemplative}, {meditative}, {musing}, {pondering},
+             {reflective}, {ruminative}]
+     2: showing pensive sadness; "the sensitive and wistful response
+        of a poet to the gentler phases of beauty" [syn: {wistful}]
+%
+permutation
+     n 1: an event in which one thing is substituted for another; "the
+          replacement of lost blood by a transfusion of donor
+          blood" [syn: {substitution}, {transposition}, {replacement},
+           {switch}]
+     2: the act of changing the arrangement of a given number of
+        elements
+     3: complete change in character or condition; "the
+        permutations...taking place in the physical world"- Henry
+        Miller
+     4: act of changing the lineal order of objects in a group
+%
+piquant
+     adj 1: having an agreeably pungent taste [syn: {savory}, {savoury},
+             {spicy}, {zesty}]
+     2: engagingly stimulating or provocative; "a piquant wit";
+        "salty language" [syn: {salty}]
+     3: attracting or delighting; "an engaging frankness"; "a
+        piquant face with large appealing eyes" [syn: {engaging}]
+%
+precipitate
+     n : a precipitated solid substance in suspension or after
+         settling or filtering
+precipitate
+     v 1: separate as a fine suspension of solid particles
+     2: bring about abruptly; "The crisis precipitated by Russia's
+        revolution"
+     3: fall from clouds; "rain, snow and sleet were falling";
+        "Vesuvius precipitated its fiery, destructive rage on
+        Herculaneum" [syn: {come down}, {fall}]
+     4: fall vertically, sharply, or headlong; "Our economy
+        precipitated into complete ruin"
+     5: hurl or throw violently; "The bridge broke and precipitated
+        the train into the river below"
+precipitate
+     adj : done with very great haste and without due deliberation;
+           "hasty marriage seldom proveth well"- Shakespeare;
+           "hasty makeshifts take the place of planning"- Arthur
+           Geddes; "rejected what was regarded as an overhasty
+           plan for reconversion"; "wondered whether they had been
+           rather precipitate in deposing the king" [syn: {hasty},
+            {overhasty}, {precipitant}, {precipitous}]
+%
+precocious
+     adj 1: characterized by or characteristic of exceptionally early
+            development or maturity (especially in mental
+            aptitude); "a precocious child"; "a precocious
+            achievement" [ant: {retarded}]
+     2: appearing or developing early; "precocious flowers appear
+        before the leaves as in some species of magnolias"
+%
+propitious
+     adj : presenting favorable circumstances; "propitious omens" [ant:
+            {unpropitious}]
+%
+repudiate
+     v 1: cast off or disown; "She renounced her husband"; "The
+          parents repudiated their son" [syn: {renounce}]
+     2: refuse to acknowledge, ratify, or recognize as valid; "The
+        woman repudiated the divorce settlement"
+     3: refuse to recognize or pay; "repudiate a debt"
+     4: reject as untrue, unfounded, or unjust; "She repudiated the
+        accusations"
+%
+reticent
+     adj 1: temperamentally disinclined to talk [syn: {untalkative}]
+     2: cool and formal in manner [syn: {reserved}, {restrained}, {unemotional}]
+     3: reluctant to draw attention to yourself [syn: {self-effacing}]
+%
+sagely
+     adv : in a wise manner; "she acted wisely when she invited her
+           parents" [syn: {wisely}, {with wisdom}, {showing wisdom}]
+           [ant: {foolishly}]
+%
+seditious
+     adj 1: arousing to action or rebellion [syn: {incendiary}, {incitive},
+             {inflammatory}, {instigative}, {rabble-rousing}]
+     2: in opposition to a civil authority or government [syn: {insurgent},
+         {subversive}]
+%
+sentience
+     n 1: state of elementary or undifferentiated consciousness; "the
+          crash intruded on his awareness" [syn: {awareness}]
+     2: the faculty through which the external world is apprehended;
+        "in the dark he had to depend on touch and on his senses
+        of smell and hearing" [syn: {sense}, {sensation}, {sentiency},
+         {sensory faculty}]
+     3: the readiness to perceive sensations; elementary or
+        undifferentiated consciousness; "gave sentience to slugs
+        and newts"- Richard Eberhart [ant: {insentience}]
+%
+spurn
+     v : reject with contempt; "She spurned his advances" [syn: {reject},
+          {freeze off}, {scorn}, {pooh-pooh}, {disdain}, {turn
+         down}]
+%
+stalwart
+     adj 1: having rugged physical strength; inured to fatigue or
+            hardships; "hardy explorers of northern Canada";
+            "proud of her tall stalwart son"; "stout seamen";
+            "sturdy young athletes" [syn: {hardy}, {stout}, {sturdy}]
+     2: dependable; "the stalwart citizens at Lexington"; "a
+        stalwart supporter of the UN"; "stout hearts" [syn: {stout}]
+     3: used especially of persons; "a stalwart knight"; "a
+        stouthearted fellow who had an active career in the army"
+        [syn: {stouthearted}]
+     n : a person who is loyal to their allegiance (especially in
+         times of revolt) [syn: {loyalist}]
+%
+stentorian
+     adj : used of the voice [syn: {booming}]
+%
+stoical
+     adj : seeming unaffected by pleasure or pain; impassive; "stoic
+           courage"; "stoic patience"; "a stoical sufferer" [syn:
+           {stoic}]
+%
+stultify
+     v 1: prove to be of unsound mind or demonstrate someone's
+          incompetence; "nobody is legally allowed to stultify
+          himself"
+     2: cause to appear foolish; "He stultified himself by
+        contradicting himself and being inconsistent"
+     3: deprive of strength or efficiency; make useless or
+        worthless; "This measure crippled our efforts"; "Their
+        behavior stultified the boss's hard work" [syn: {cripple}]
+     [also: {stultified}]
+%
+substrate
+     n 1: the substance acted upon by an enzyme or ferment
+     2: any stratum lying underneath another [syn: {substratum}]
+%
+superfluous
+     adj 1: serving no useful purpose; having no excuse for being;
+            "otiose lines in a play"; "advice is wasted words"
+            [syn: {otiose}, {pointless}, {wasted}]
+     2: more than is needed, desired, or required; "trying to lose
+        excess weight"; "found some extra change lying on the
+        dresser"; "yet another book on heraldry might be thought
+        redundant"; "skills made redundant by technological
+        advance"; "sleeping in the spare room"; "supernumerary
+        ornamentation"; "it was supererogatory of her to gloat";
+        "delete superfluous (or unnecessary) words"; "extra ribs
+        as well as other supernumerary internal parts"; "surplus
+        cheese distributed to the needy" [syn: {excess}, {extra},
+        {redundant}, {spare}, {supererogatory}, {supernumerary}, {surplus}]
+%
+surreptitious
+     adj 1: marked by quiet and caution and secrecy; taking pains to
+            avoid being observed; "a furtive manner"; "a lurking
+            prowler"; "a sneak attack"; "stealthy footsteps"; "a
+            surreptitious glance at his watch"; "someone skulking
+            in the shadows" [syn: {furtive}, {lurking}, {skulking},
+             {sneak(a)}, {sneaky}, {stealthy}]
+     2: conducted with or marked by hidden aims or methods;
+        "clandestine intelligence operations"; "cloak-and-dagger
+        activities behind enemy lines"; "hole-and-corner
+        intrigue"; "secret missions"; "a secret agent"; "secret
+        sales of arms"; "surreptitious mobilization of troops";
+        "an undercover investigation"; "underground resistance"
+        [syn: {clandestine}, {cloak-and-dagger}, {hole-and-corner(a)},
+         {hugger-mugger}, {hush-hush}, {on the quiet(p)}, {secret},
+         {undercover}, {underground}]
+%
+teleology
+     n : (philosophy) a doctrine explaining phenomena by their ends
+         or purposes
+%
+transcendent
+     adj 1: beyond and outside the ordinary range of human experience or
+            understanding; "philosophers...often explicitly reject
+            the notion of any transcendent reality beyond
+            thought...and claim to be concerned only with thought
+            itself..."- W.P.Alston; "the unknowable mysteries of
+            lifer" [syn: {unknowable}]
+     2: exceeding or surpassing usual limits especially in
+        excellence [syn: {surpassing}]
+%
+trenchant
+     adj 1: having keenness and forcefulness and penetration in thought,
+            expression, or intellect; "searching insights";
+            "trenchant criticism" [syn: {searching}]
+     2: characterized by or full of force and vigor; "a hard-hitting
+        expose"; "a trenchant argument" [syn: {hard-hitting}]
+     3: clearly or sharply defined to the mind; "clear-cut evidence
+        of tampering"; "Claudius was the first to invade Britain
+        with distinct...intentions of conquest"; "trenchant
+        distinctions between right and wrong" [syn: {clear-cut}, {distinct}]
+%
+turgid
+     adj 1: ostentatiously lofty in style; "a man given to large talk";
+            "tumid political prose" [syn: {bombastic}, {declamatory},
+             {large}, {orotund}, {tumid}]
+     2: abnormally distended especially by fluids or gas; "hungry
+        children with bloated stomachs"; "he had a grossly
+        distended stomach"; "eyes with puffed (or puffy) lids";
+        "swollen hands"; "tumescent tissue"; "puffy tumid flesh"
+        [syn: {bloated}, {distended}, {puffed}, {puffy}, {swollen},
+         {tumescent}, {tumid}]
+%
+vacuous
+     adj 1: complacently or inanely foolish [syn: {asinine}, {fatuous},
+            {inane}, {mindless}]
+     2: devoid of significance or point; "empty promises"; "a hollow
+        victory"; "vacuous comments" [syn: {empty}, {hollow}]
+%
+vitriol
+     n 1: (H2SO4) a highly corrosive acid made from sulfur dioxide;
+          widely used in the chemical industry [syn: {oil of
+          vitriol}, {sulfuric acid}, {sulphuric acid}]
+     2: abusive or venomous language used to express blame or
+        censure or bitter deep-seated ill will [syn: {vituperation},
+         {invective}]
+     v 1: expose to the effects of vitriol or injure with vitriol
+     2: subject to bitter verbal abuse
+     [also: {vitriolling}, {vitriolled}]
+%
+vociferous
+     adj : conspicuously and offensively loud; given to vehement
+           outcry; "blatant radios"; "a clamorous uproar";
+           "strident demands"; "a vociferous mob" [syn: {blatant},
+            {clamant}, {clamorous}, {strident}]
+%

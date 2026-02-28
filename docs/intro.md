@@ -1,5 +1,5 @@
 ---
-title: Intro noetic.news
+title: Intro metafiction.news
 ---
 
 ## Intro
