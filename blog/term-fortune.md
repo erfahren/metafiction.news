@@ -10,7 +10,9 @@ title: "Cowsay (or tuxsay) fortunes in terminal"
 I have it set up using fortune's "wisdom" quotes. They're not difficult to create; install the "fortune-mod" package (along with "fortunes" and "cowsay"); use the strfile tool on a [formatted text](@site/static/vocab-fortune.txt "formatted text file") like "strfile vocab-fortune vocab-fortune.dat" and put it in fortune's directory, e.g. _/usr/share/fortune_ or _/usr/share/games/fortunes/ on Debians._ 
 {/* truncate */}
 
-I have a [kjv](https://www.atadcrazy.net/gnu-linux/misc/fortunes-kjv.tar.bz2 "kjv") [vocabulary](https://www.atadcrazy.net/gnu-linux/misc/fortunes-vocabulary.tar.bz2 "vocabulary") set available.
+I have a couple available:
+- [kjv](https://www.atadcrazy.net/gnu-linux/misc/fortunes-kjv.tar.bz2 "kjv")
+- [vocabulary](https://www.atadcrazy.net/gnu-linux/misc/fortunes-vocabulary.tar.bz2 "vocabulary")
 
 ![term-fortune.png](@site/static/img/term-fortune.png)
 
