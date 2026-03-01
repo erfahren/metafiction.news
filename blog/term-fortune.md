@@ -14,7 +14,7 @@ I have a [kjv](https://www.atadcrazy.net/gnu-linux/misc/fortunes-kjv.tar.bz2 "kj
 
 ![term-fortune.png](@site/static/img/term-fortune.png)
 
-**Add the following to your ~/.bashrc (".bashrc" is a hidden file in the Home or "~/" directory):**
+**Add the following to your ~/.bashrc (".bashrc" is a hidden file in the Home or "\~/" directory):**
 
 ```
 # BASH COWSAY WITH FORTUNE
