@@ -47,5 +47,6 @@ npx create-docusaurus@latest
 ```
 **And with installed _@netlify/plugin-nextjs_** 
 & so runs on **_netlify.com/_**
-And has other modifications.
+
+Also has other modifications. [metafiction.news/](https://metafiction.news/ "metafiction.news/")
 
