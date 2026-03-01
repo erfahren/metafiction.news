@@ -16,7 +16,7 @@ Typically the files are in:
 
  &  
 
-**~/.local/share/applications** for an individual user.
+**\~/.local/share/applications** for an individual user.
  
 ( **~/** _is_ **/home/&lt;_username_&gt;/** & **.local/** is a hidden directory )
 
@@ -47,7 +47,7 @@ ls -a
 gtk-launch firefox.desktop
 ```
 
-**They can also be used to set a specific custom theme for a GTK+ program:
+**They can also be used to set a specific custom theme for a GTK+ program:**
 
 ```
 Exec=env GTK_THEME=Adwaita gimp
