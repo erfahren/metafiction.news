@@ -69,7 +69,7 @@ command-line stuff like ‘cat’ and ‘1s.”
 
 Linux laughs, but it sounds menacing. “Hey Mac, at your heart, you're running BSD,
 which is a Unix-like operating system, just like me. But to most people, it’s as invisible
-asIam.”
+as I am.”
 
 PC keeps looking around for the source of the voice. “You're just a tiny little cult, aren’t
 you?”
@@ -89,6 +89,7 @@ best you can do in return is mockery?”
 Ed Quillen of Salida (ed@cozine.com) is a former newspaper editor whose column
 appears Tuesday and Sunday.
 
-![Ed Quillen](@site/static/img/ed-quillen-photo.png)
-
+| ![Ed Quillen article page 1](@site/static/img/ed-q-1.png) | ![Ed Quillen article page 2](@site/static/img/ed-q-2.png) |
+| :--- | ---: |
+| ![Ed Quillen](@site/static/img/ed-quillen-photo.png) | **[PDF of article](@site/static/ed-quillen-Hi-Im-a-Mac-I-am-way-cool-2006-12-18.pdf "ed-quillen-Hi-Im-a-Mac-I-am-way-cool-2006-12-18.pdf")** |
 ---
