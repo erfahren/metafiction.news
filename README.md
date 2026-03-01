@@ -40,4 +40,12 @@ GIT_USER=<Your GitHub username> yarn deploy
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 # metafiction.news
-# metafiction.news
+---
+This was originally built with:
+```
+npx create-docusaurus@latest
+```
+**And with installed _@netlify/plugin-nextjs_** 
+& so runs on **_netlify.com/_**
+And has other modifications.
+
